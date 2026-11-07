@@ -2,7 +2,7 @@
 
 👩‍💻✨ This repository contains a complete collection of code and solutions for various JavaScript learning modules, ranging from programming fundamentals, clean code style, OOP, recursion, to comprehensive unit testing and real-world scenarios.
 
-> 📜 **Certification Context:** This project was developed as the final submission for the **JavaScript Programming Fundamentals** class in the **Dicoding DBS** program.  
+> 📜 **Certification Context:** This project was developed as the final submission for the **JavaScript Programming Fundamentals** class in the **Dicoding** program.  
 > [![Dicoding Certificate - Page 1](certificate/certificate-page1.png)](JavaScript-Programming-Fundamentals.pdf)
 
 ---
